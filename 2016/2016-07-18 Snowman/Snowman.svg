@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 744.09448819 1052.3622047"
+   id="svg4959"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="Snowman.svg">
+  <defs
+     id="defs4961" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.01"
+     inkscape:cx="-10996.192"
+     inkscape:cy="-24882.431"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showborder="false"
+     inkscape:window-width="1680"
+     inkscape:window-height="987"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata4964">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g5569">
+      <rect
+         y="-32684.781"
+         x="-21302.861"
+         height="68137.141"
+         width="68137.141"
+         id="rect5531"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1" />
+      <circle
+         r="31526.143"
+         cy="536.31305"
+         cx="12596.211"
+         id="path4903"
+         style="opacity:1;fill:#aaccff;fill-opacity:1;stroke:none;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4905"
+         d="M 12675.126,-19803.135 A 5339.1041,5339.1041 0 0 0 7336.0507,-14464.03 5339.1041,5339.1041 0 0 0 9825.5862,-9956.2344 8051.0303,8051.0303 0 0 0 4624.1267,-2429.8692 8051.0303,8051.0303 0 0 0 6175.1663,2304.2985 10423.966,10423.966 0 0 0 2251.1914,10451.791 10423.966,10423.966 0 0 0 12675.126,20875.761 10423.966,10423.966 0 0 0 23099.104,10451.791 10423.966,10423.966 0 0 0 19170.903,2312.1766 8051.0303,8051.0303 0 0 0 20726.169,-2429.8692 8051.0303,8051.0303 0 0 0 15523.093,-9950.2101 5339.1041,5339.1041 0 0 0 18014.23,-14464.03 5339.1041,5339.1041 0 0 0 12675.126,-19803.135 Z"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1" />
+      <circle
+         r="762.72919"
+         cy="-16243.739"
+         cx="10810.687"
+         id="path4912"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1" />
+      <circle
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1"
+         id="circle4914"
+         cx="14200.607"
+         cy="-16243.739"
+         r="762.72919" />
+      <rect
+         transform="matrix(0.70710678,0.70710678,-0.70710678,0.70710678,0,0)"
+         y="-18447.326"
+         x="8295.4473"
+         height="1318.3647"
+         width="12104.985"
+         id="rect4918"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1" />
+      <rect
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
+         id="rect4920"
+         width="12104.985"
+         height="1318.3647"
+         x="-2586.7036"
+         y="-684.76141"
+         transform="matrix(0.70710678,-0.70710678,-0.70710678,-0.70710678,0,0)" />
+    </g>
+  </g>
+</svg>
