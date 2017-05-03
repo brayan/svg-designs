@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 744.09449 1052.3622"
+   id="svg2">
+  <defs
+     id="defs4" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1">
+    <g
+       transform="matrix(0.72951245,0,0,0.72951245,-135.05249,-7.9217422)"
+       id="g4234">
+      <g
+         transform="matrix(0.96592583,-0.25881905,0.25881905,0.96592583,-152.05211,-57.920239)"
+         id="g4219">
+        <path
+           d="m -496,509.46222 200,-105 200,105 z"
+           id="path4155"
+           style="fill:#cccccc;fill-opacity:1;stroke:none" />
+        <path
+           d="m -296,404.46289 -200,105 40,0 160,-84 160,84 40,0 -200,-105 z"
+           id="path4157"
+           style="fill:#999999;fill-opacity:1;stroke:none" />
+        <rect
+           width="400"
+           height="200.89999"
+           x="-496"
+           y="509.46222"
+           id="rect4136"
+           style="fill:#e6e6e6;fill-opacity:1;stroke:none" />
+        <path
+           d="m -496,509.46289 200,105 200,-105 z"
+           id="rect4138"
+           style="fill:#999999;fill-opacity:1;stroke:none" />
+        <g
+           id="g4215">
+          <path
+             d="m -181.69336,386.66797 -299.07422,80.13672 15.79492,58.94726 168.97266,88.71094 153.71875,-80.70312 -39.41211,-147.0918 z"
+             id="rect4189"
+             style="fill:#aaeeff;fill-opacity:1;stroke:none" />
+          <path
+             d="m -200.11133,411.125 -252.47656,67.65234 8.40039,31.34766 252.47461,-67.65234 -8.39844,-31.34766 z m 11.65235,43.49219 -252.47461,67.65234 5.01953,18.73828 17.04297,8.94727 238.8125,-63.99024 -8.40039,-31.34765 z m 11.65429,43.49219 -225.65234,60.46289 42.37109,22.24609 191.68164,-51.36133 -8.40039,-31.34765 z m 11.6543,43.49023 -178.52344,47.83398 42.3711,22.2461 21.66015,-5.80469 115.4707,-60.62109 -0.97851,-3.6543 z"
+             id="rect4191"
+             style="fill:#00aad4;fill-opacity:1;stroke:none" />
+        </g>
+        <path
+           d="m -496,509.46289 164.66602,86.44922 26.66601,14 8.66797,4.55078 8.66797,-4.55078 26.66601,-14 L -96,509.46289 l -177.21484,79.86133 -0.002,0 -22.7832,-11.96289 -22.7832,11.96289 -0.002,0 L -496,509.46289 z"
+           id="path4177"
+           style="opacity:0.1;fill:#000000;fill-opacity:1;stroke:none" />
+        <path
+           d="m -496,710.36221 200,-105 200,105 z"
+           id="path4153"
+           style="fill:#cccccc;fill-opacity:1;stroke:none" />
+        <path
+           d="M -324.125,599.69727 -496,710.36133 -304.66797,609.91211 -324.125,599.69727 z"
+           id="path4170"
+           style="opacity:0.32600014;fill:#000000;fill-rule:evenodd;stroke:none" />
+        <path
+           d="M -267.875,599.69812 -96,710.36218 -287.33203,609.91296 -267.875,599.69812 z"
+           id="path4175"
+           style="opacity:0.3260002;fill:#000000;fill-rule:evenodd;stroke:none" />
+      </g>
+      <ellipse
+         cx="-243"
+         cy="775.36218"
+         rx="196"
+         ry="5"
+         id="path4232"
+         style="opacity:0.13699999;fill:#000000;fill-opacity:1;stroke:none" />
+    </g>
+  </g>
+</svg>
