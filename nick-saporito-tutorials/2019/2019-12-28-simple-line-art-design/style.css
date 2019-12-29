@@ -1,0 +1,26 @@
+body {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    min-height: 100vh;
+}
+
+svg {
+    
+    height: 600px;
+    width: 600px;
+    animation: opacity 1s linear 0s infinite alternate;
+}
+
+.water {
+    
+}
+
+#layer1 {
+    
+}
+
+@keyframes opacity {
+    from { opacity: 1; }
+    to { opacity: .5; }
+}
